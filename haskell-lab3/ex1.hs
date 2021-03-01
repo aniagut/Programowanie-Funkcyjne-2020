@@ -1,0 +1,17 @@
+--1.
+--let f1 = \x->x-2
+--let f2 = \x y -> sqrt(x^2+y^2)
+--let f3 = \x y z -> sqrt(x^2+y^2+z^2)
+--2.
+--let f4= \x-> (2*x)
+--let f5= \x-> (x*2)
+--let f6= \x-> (2^x)
+--let f7 = \x -> (x^2)
+--let f8 = \x -> (2/x)
+--let f9 = \x -> (x/3)
+--let f10 = \x -> (4-x)
+--4.
+--let f7 = \x -> x `mod` 2 == 0
+--let f8 = \x -> let y=sqrt(x) in 2* y^3 * (y+1)
+--let f9 = \x -> (if x==1 then 3 else 0)
+
